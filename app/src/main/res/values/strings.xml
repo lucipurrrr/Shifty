@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shifty</string>
+    <string name="title_activity_main">Shifts</string>
+    <string name="action_add_shift">Add Shift</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="hint_date">Date (MM/DD/YYYY)</string>
+    <string name="hint_start_time">Start Time (HH:MM)</string>
+    <string name="hint_end_time">End Time (HH:MM)</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_type">Shift Type</string>
+    <string name="hint_notes">Notes</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="empty_shifts">No shifts scheduled. Tap + to add one!</string>
+</resources>
